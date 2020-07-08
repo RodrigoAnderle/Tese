@@ -1,5 +1,7 @@
 # Tese
-Arquivos relacionados a tese de doutorado (disponibilizados)
+
+Este repositório traz as bases de dados utilizadas no desenvolvimento da tese de doutorado em economia pela UFBA.
+A seguir, há uma breve descrição do que contempla cada uma das bases disponibilizadas aqui.
 
 * **"Base_PT.csv"** - Base de dados com variáveis selecionadas, agregadas a nível municipal para todos os municípios identificados na relação "ParquesGeral2016- Versão Editada.csv".
 
