@@ -13,6 +13,10 @@ A seguir, há uma breve descrição do que contempla cada uma das bases disponib
 
 * **"Var.csv"** - Contribuição de cada variável na constituição do componente principal (*proxy* para o sistema local de inovação).
 
+# Metadados
+
+Nesta seção constam apenas os metadados da base "ParquesGeral" que contém a relação de parques tecnológicos utilizada na pesquisa. Os outros metadados foram disponibilizados nas respectivas pastas identificadas na lista de arquivos do repositório.
+
 ## Metadados "ParquesGeral2016- Versão Editada.csv"
 
 Variável | Coluna | Tipo | Descrição | Fonte
