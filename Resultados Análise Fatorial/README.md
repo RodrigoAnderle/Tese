@@ -24,6 +24,10 @@ ECV | 6 | *Numeric* | Resultado do teste ECV para unidimensionalidae, sugerido p
 IREAL | 7 | *Numeric* | Resultado do teste IREAL para unidimensionalidae, sugerido por Ferrando e Lorenzo-Seva (2018). A análise pode ser considerada unidimensional, caso o valor identificado seja menor que 0,3. Não foi o caso em nenhum dos resultados. | Resultado da análise fatorial aplicada no estudo.
 Base | 8 | *Integer* | Identificação da base de dados utilizada no cálculo da análise fatorial. Lembrando que: Base 1 > Base 2 > Base 3. | Resultado da análise fatorial aplicada no estudo.
 
+### Referências
+
+Ferrando e Lorenzo-Seva.(2018) Assessing the Quality and Appropriateness of Facto. Educational and Psychological Measurement, Ed. 5, vol. 78. doi: 10.1177/0013164417719308. Disponível em: <http://journals.sagepub.com/doi/10.1177/0013164417719308>
+
 ## Contribuição das Variáveis (Var.csv)
 
 Variável | Coluna | Tipo | Descrição | Fonte
