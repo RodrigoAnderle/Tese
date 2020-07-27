@@ -37,4 +37,4 @@ Ano | 2 | *Intger* | Ano de referência utilizado no cálculo da análise fatori
 Fator1 | 3 | *Numeric* | Contribuições de cada variável para a composição do Fator1 (Componente Principal), utilizado como *proxy* do sistemas de inovações no estudo. Valores entre -1 e 1. | Recorte selecionado durante o estudo.
 Fator2 | 4 | *Numeric* | Contribuições de cada variável para a composição do Fator2, não utilizada no estudo. Valores entre -1 e 1. | Recorte selecionado durante o estudo.
 Fator3 | 5 | *Numeric* | Contribuições de cada variável para a composição do Fator3, não utilizada no estudo. Valores entre -1 e 1. | Recorte selecionado durante o estudo.
-Base | 8 | *Integer* | Identificação da base de dados utilizada no cálculo da análise fatorial. Lembrando que: Base 1 > Base 2 > Base 3. | Resultado da análise fatorial aplicada no estudo.
+Base | 6 | *Integer* | Identificação da base de dados utilizada no cálculo da análise fatorial. Lembrando que: Base 1 > Base 2 > Base 3. | Resultado da análise fatorial aplicada no estudo.
