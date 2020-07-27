@@ -32,7 +32,7 @@ Ferrando e Lorenzo-Seva.(2018) Assessing the Quality and Appropriateness of Fact
 
 Variável | Coluna | Tipo | Descrição | Fonte
 :--------|:------:|:----:|:----------|:-----
-Variavel | 1 | *Factor* | 212 variáveis utilizadas no cálculo da análise fatorial. | Base principal, disponível nesse repositório.
+Variável | 1 | *Factor* | 212 variáveis utilizadas no cálculo da análise fatorial. | Base principal, disponível nesse repositório.
 Ano | 2 | *Intger* | Ano de referência utilizado no cálculo da análise fatorial. | Recorte selecionado durante o estudo.
 Fator1 | 3 | *Numeric* | Contribuições de cada variável para a composição do Fator1 (Componente Principal), utilizado como *proxy* do sistemas de inovações no estudo. Valores entre -1 e 1. | Recorte selecionado durante o estudo.
 Fator2 | 4 | *Numeric* | Contribuições de cada variável para a composição do Fator2, não utilizada no estudo. Valores entre -1 e 1. | Recorte selecionado durante o estudo.
