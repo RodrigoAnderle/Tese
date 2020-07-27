@@ -1,3 +1,0 @@
-## Metadados Parque Tecnológicos
-
-
