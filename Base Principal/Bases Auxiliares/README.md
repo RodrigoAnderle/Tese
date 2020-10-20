@@ -6,6 +6,8 @@ Com o tempo, esses scripts devem ser disponibilizados.
 ## Bases disponibilizadas
 
 ### Universidades
-Corresponde a junção dos censos universitários desde 1995 à 2016. 
+Corresponde a junção dos censos do ensino sueperior desde 1995 à 2016. 
 Foram criadas algumas variáveis com bases nas informações comparáveis ao longo do tempo.
-(Em breve adicionarei mais detalhes)
+Ainda não foi possível carregar essa base para o github pois ela é muito pesada. Estou estudando alternativas.
+
+
