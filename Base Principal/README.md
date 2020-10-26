@@ -1,4 +1,9 @@
-# Metadados Base Principal
+# Base Principal
+
+Esta base foi construída para agregar informações dos municípios com parques tecnológicos no Brasil até o ano de 2016. A partir dessas informações que foram calculados os componentes principais, utilizados pela pesquisa como *proxy* para os sistemas locais de inovação. 
+Nem todas as variáveis presentes nesta base foram utilizadas neste cálculo, algumas variáveis foram descartadas por opção da pesquisa, outras serviam a outros fins, como as informações de PIB e PIB *per capta*.
+
+## Metadados Base Principal
 
 Variável | Coluna |Tipo | Descrição | Fonte
 :------|:-----:|:------:|:-------|:------
