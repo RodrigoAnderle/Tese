@@ -1,6 +1,6 @@
 # Tese
 
-Este repositório traz as bases de dados utilizadas no desenvolvimento da tese de doutorado em economia pela UFBA, intitulada **Parques Tecnológicos no Brasil, um exercício de avaliação dos seus impactos nos municípios**.
+Este repositório traz as bases de dados utilizadas no desenvolvimento da tese de doutorado em economia pela UFBA, intitulada **Parques Tecnológicos no Brasil, um exercício de avaliação dos seus impactos nos municípios**. Tese de doutorado defendida em Julho de 2020 e disponibilizada no [repositório UFBA](https://repositorio.ufba.br/ri/handle/ri/32353)
 A seguir, há uma breve descrição do que contempla cada uma das bases disponibilizadas aqui.
 
 * **"Base_PT.csv"** - Base de dados com variáveis selecionadas, agregadas a nível municipal para todos os municípios identificados na relação "ParquesGeral2016- Versão Editada.csv".
